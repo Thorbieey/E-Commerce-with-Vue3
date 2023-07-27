@@ -14,6 +14,9 @@
       <p v-show="onSale">On sale!</p>
       <img :src="imgBlue" alt="blue socks" >
       <p>{{ productDescription }}</p>
+      <ul>
+        <li v-for="size in sizes" >{{size}}</li>
+      </ul>
     </div>
 
     <!-- Import App -->

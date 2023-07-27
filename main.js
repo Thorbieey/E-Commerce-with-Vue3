@@ -8,6 +8,7 @@ const app = createApp({
         imgGreen: './assets/images/socks_green.jpg',
         imgBlue: './assets/images/socks_blue.jpg',
         onSale: true,
+        sizes: ["Small", "Medium", "Large", "Extra-large"]
     }
   }
 })
