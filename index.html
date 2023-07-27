@@ -11,8 +11,9 @@
   <body>
     <div id="app">
       <h1>{{ product }}</h1>
-      <p>{{ productDescription }}</p>
+      <p v-show="onSale">On sale!</p>
       <img :src="imgBlue" alt="blue socks" >
+      <p>{{ productDescription }}</p>
     </div>
 
     <!-- Import App -->
