@@ -5,6 +5,8 @@ const app = createApp({
     return {
         product: 'Socks',
         productDescription: 'A comfy and cozy island for your feet.',
+        imgGreen: './assets/images/socks_green.jpg',
+        imgBlue: './assets/images/socks_blue.jpg',
     }
   }
 })
