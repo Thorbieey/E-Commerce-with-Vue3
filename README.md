@@ -30,7 +30,7 @@ A products app built with Vue Js with the ability to add reviews and items from 
 ### Repository
 
 * The URL of the GitHub repository: 
-[https://github.com/Thorbieey/Intro-to-Vue3.git](https://github.com/Thorbieey/Intro-to-Vue3.git)
+[https://github.com/Thorbieey/E-Commerce-with-Vue3.git](https://github.com/Thorbieey/E-Commerce-with-Vue3.git)
 
 ### Demo
 
